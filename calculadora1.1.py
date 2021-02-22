@@ -30,5 +30,5 @@ elif opcao == 4:
         if number2 == 0:
             print("\nDivisão: ", number1, "/", number2, "- Operação não pode ser realizada. Justificativa: Denominador é zero")
 else:
-    print("\nPor favor, digíte uma opção válida!")
+    print("\nPor favor, digíte uma opção válida!!")
 
